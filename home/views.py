@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from django.http import HttpResponse
-# from . import cds6 as cds 
+from . import cds6 as cds 
 
 # Create your views here.
 def home(request):
